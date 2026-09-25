@@ -23,9 +23,7 @@ Especialista en sistemas de manufactura con experiencia en:
 
 ## Tecnologías
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=foro=microsoftsqlserver&logoColor=white
-
 ## Contacto
 
-- LinkedIn: https://linkedin.com/in/tuusuario
+- LinkedIn: 
 - Email: eladiofdzn@gmail.com
