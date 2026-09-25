@@ -23,13 +23,7 @@ Especialista en sistemas de manufactura con experiencia en:
 
 ## Tecnologías
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-rosoftsqlserver&logoColor=white
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logologoColor=white
-
-![Angular](https://img.shields.io/badge/Angular-DD0031the-badge&logo=angular&logoColor=white
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=foro=microsoftsqlserver&logoColor=white
 
 ## Contacto
 
